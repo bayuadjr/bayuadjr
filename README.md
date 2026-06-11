@@ -1,55 +1,74 @@
-# hey, i'm Bayu 👋
+## Hi, I'm Bayu 👋
 
-> *anthropology student who got lost in data science and decided to stay*
+An **anthropology student** at Universitas Brawijaya — but the kind who spends as much time in Jupyter notebooks as in the field.
 
-I study humans. I'm learning to study them with data too.
-
-Currently building at the intersection of ethnographic fieldwork and computational methods — somewhere between a fieldnote and a Jupyter notebook, that's where you'll find me.
+I think culture and code are two sides of the same coin. Society shapes the systems we build, and systems reshape the societies that build them. That intersection is where I want to live.
 
 ---
 
-### 🧭 what i'm about
+### 🧭 What I'm About
 
-- 🏛️ **Anthropology** @ Universitas Brawijaya — semester 2, building Fieldnotes
-- 📊 **Data science** via Kaggle, self-taught — Pandas, NumPy, scikit-learn
-- 🧠 **AI tinkering** — OpenClaw (self-hosted agent), Gemini API, Claude
-- 🌍 **Long game:** Computational Social Science → research in Germany
+**📝 Fieldnotes** — building an AI-powered PWA for ethnographic fieldwork. Offline-first, designed for Indonesian researchers. AI as reflective co-thinker, not replacement.
 
----
+**📊 Data Science** — self-taught via Kaggle, building towards computational social science. Pandas, NumPy, scikit-learn, one dataset at a time.
 
-### 🛠️ stack
+**🚀 IndonesiaNEXT S10** — Top 1000, pushing for Top 9 as Hustler. Learning how to bring products to market with data-driven strategy.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+**🌍 Long Game** — Computational Social Science pathway to Germany.
 
 ---
 
-### 🔭 currently
+### 🛠️ What I Work With
+
+```text
+Anthropology   ▰▰▰▰▰▰▰▰▰▰   fieldwork, ethnography, social theory
+Python/Data    ▰▰▰▰▰▰▰▰░░   pandas, numpy, scikit-learn
+React/Vite     ▰▰▰▰▰▰░░░░   PWA, offline-first, Supabase
+AI/LLM         ▰▰▰▰▰▰▰░░░   Gemini API, Claude, OpenClaw
+German         ▰▰░░░░░░░░   Duolingo, still a beginner
+```
+
+---
+
+### 📌 Projects That Matter
 
 | Project | What |
 |---|---|
-| **Fieldnotes** | AI-powered PWA for ethnographic fieldwork (solo, React+Vite, Supabase, Gemini) |
-| **IndonesiaNEXT S10** | Telkomsel fast-track — Top 1000, target Top 9 (Hustler role) |
-| **Portfolio** | [bayuadjr.vercel.app](https://bayuadjr.vercel.app) — react, sanity, earth tones |
+| [**Fieldnotes**](https://github.com/bayuadjr/fieldnotes) | AI ethnographic fieldwork assistant — React PWA + Gemini + Supabase |
+| [**Portfolio**](https://bayuadjr.vercel.app) | Personal site — React, Sanity CMS, earth tones |
+| [**Karsa**](https://github.com/bayuadjr/karsa-config) | My AI familiar — self-hosted agent with curated skills |
 
 ---
 
-### 💬 honest takes
+### 🧠 Curiosity Map
 
-- i'm still a beginner at most of this
-- anthropology + data science is an underrated combo and i'm betting on it
-- i write sometimes — about social theory, code, and things that don't fit neatly into either
-- ask me about *Classic Literature* and i won't shut up
+I don't stay in one lane. Lately:
+
+- **Reading:** Graeber & Wengrow (*The Dawn of Everything*), Nietzsche, stoicism, Tan Malaka (Madilog)
+- **Frameworks:** First principles thinking, inversion, pre-mortem, jobs-to-be-done
+- **Games:** Baduk (Go), chess, Balatro (help), occasional MLBB
+- **Hobbies:** Coffee science (grind size, water temp, cold brew), thrift fashion (earth tones), fragrance exploration
+- **Fitness:** UL/PPL split, cutting phase — gym as mental reset
 
 ---
 
-### 📬 find me
+### 📍 Current Coordinates
+
+- *Where:* Malang, Indonesia — studying at UB's Faculty of Cultural Studies
+- *What:* Building Fieldnotes, competing in IndonesiaNEXT, learning German
+- *Vibe:* Curious, direct, chaos-friendly. Morning person who can night-owl when it matters.
+- *Motto:* Build things, ask better questions, don't settle for surface-level answers.
+
+---
+
+### 💬 Let's Talk
+
+I write about anthropology, data, and things that don't fit neatly into either.
 
 [![Instagram](https://img.shields.io/badge/Instagram-@bayuadjr-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/bayuadjr/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bayu%20Adji-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bayu-adji-ramadhan-886652236/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bayuadjr.vercel.app-000?style=flat-square)](https://bayuadjr.vercel.app)
 
 ---
 
-*currently: somewhere between a fieldwork deadline and a for loop*
+*"Anthropology is the most scientific of the humanities, and the most humanistic of the sciences." — Eric Wolf*
